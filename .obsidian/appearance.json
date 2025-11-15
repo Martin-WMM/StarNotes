@@ -1,3 +1,5 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "Monaco",
+  "translucency": true
 }
