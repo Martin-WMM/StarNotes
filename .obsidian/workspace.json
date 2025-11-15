@@ -171,8 +171,11 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "599c54cc38a0102a",
+  "active": "1dee18f043ead753",
   "lastOpenFiles": [
+    "资料/扩散模型原理分析.pdf",
+    "资料/傅立叶分析笔记.pdf",
+    "资料",
     "人工智能/扩散模型/数学基础/扩散模型数学基础：微积分（一）.md",
     "人工智能/扩散模型/数学基础/扩散模型数学基础：微积分（二）.md",
     "人工智能/扩散模型/数学基础/扩散模型数学基础：随机过程（一）.md",
@@ -195,8 +198,6 @@
     "Codes/manims/src/manims/media/videos/main/1080p60/partial_movie_files/CodeFromString",
     "Codes/manims/src/manims/media/videos/main/1080p60/partial_movie_files/MyScene/3977891868_445022609_557880437.mp4",
     "Codes/manims/src/manims/media/videos/main/1080p60/MyScene.mp4",
-    "Codes/manims/src/manims/media/videos/main/1080p60/partial_movie_files/MyScene/partial_movie_file_list.txt",
-    "Codes/manims/src/manims/media/videos/main/1080p60/partial_movie_files/MyScene/3977891868_2948061528_557880437.mp4",
     "Codes/manims/src/manims/media/Tex/6ecf9f51170c1a70.svg",
     "Codes/manims/src/manims/media/Tex/2b7ffb3c38a5a6e0.svg",
     "Codes/manims/src/manims/media/Tex/ba96de15f98acfc8.svg",
@@ -218,7 +219,6 @@
     "前端技术/Tailwind CSS/Tailwind CSS.md",
     "Excalidraw/Drawing 2025-08-30 16.48.59.excalidraw.md",
     "未命名.canvas",
-    "数学/凸优化/Chapter 2 - Convex Set.md",
-    "数学/工具/Tikz绘图工具.md"
+    "数学/凸优化/Chapter 2 - Convex Set.md"
   ]
 }
