@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/工具/Manim动画工具/README.md",
+                "file": "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2. 奸雄贾雨村与甄士隐的小悲剧"
             }
           }
         ]
@@ -171,8 +171,16 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "1dee18f043ead753",
+  "active": "599c54cc38a0102a",
   "lastOpenFiles": [
+    "我的生活/《红楼梦》与三十岁的我/1. 碎碎念.md",
+    "生活.md",
+    "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
+    "数学/工具/Manim动画工具/README.md",
+    "我的生活/《红楼梦》与三十岁的我",
+    "我的生活",
+    "数学/随机过程/概率基础/1. 随机变量.md",
+    "资料/论文",
     "资料/PPT/扩散模型基础——高斯分布与高斯过程.pptx",
     "资料/PPT/The pricinples of DMs.pptx",
     "资料/PDF/扩散模型原理分析.pdf",
@@ -180,12 +188,7 @@
     "资料/PDF",
     "资料/PPT",
     "Codes/manims/src/manims/1_Manim组件.py",
-    "前端技术/TypeScript",
-    "前端技术/CSS布局",
-    "前端技术/Tailwind CSS",
-    "前端技术/React",
     "数学/凸优化/Chapter 2 - Convex Set.md",
-    "数学/工具/Manim动画工具/README.md",
     "数学/工具/Manim动画工具/2. Manim坐标系统.md",
     "数学/工具/Manim动画工具/1. Manim组件简介.md",
     "数学/工具/Tikz绘图工具.md",
@@ -216,9 +219,6 @@
     "人工智能/扩散模型/Score视角/README.md",
     "后端技术/Spring/Spring Security/Spring中的Filter组件.md",
     "Codes/manims/README.md",
-    "后端技术/Spring/Spring Security/Spring Security自动配置原理.md",
-    "后端技术/Spring/Spring Security/Spring Security授权原理.md",
-    "后端技术/Spring/Spring Security/Spring Security入门.md",
     "未命名.canvas"
   ]
 }
