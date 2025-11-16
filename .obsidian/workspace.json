@@ -173,6 +173,8 @@
   },
   "active": "599c54cc38a0102a",
   "lastOpenFiles": [
+    "resources/cover.png",
+    "resources",
     "我的生活/《红楼梦》与三十岁的我/1. 碎碎念.md",
     "生活.md",
     "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
@@ -187,7 +189,6 @@
     "资料/PDF/傅立叶分析笔记.pdf",
     "资料/PDF",
     "资料/PPT",
-    "Codes/manims/src/manims/1_Manim组件.py",
     "数学/凸优化/Chapter 2 - Convex Set.md",
     "数学/工具/Manim动画工具/2. Manim坐标系统.md",
     "数学/工具/Manim动画工具/1. Manim组件简介.md",
@@ -218,7 +219,6 @@
     "人工智能/扩散模型/Score视角/1. Energy-Based Models (EBMs).md",
     "人工智能/扩散模型/Score视角/README.md",
     "后端技术/Spring/Spring Security/Spring中的Filter组件.md",
-    "Codes/manims/README.md",
     "未命名.canvas"
   ]
 }
