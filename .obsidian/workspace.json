@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
+                "file": "数学/随机过程/概率基础/1. 随机变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 奸雄贾雨村与甄士隐的小悲剧"
+              "title": "1. 随机变量"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5026054382324
+    "width": 200
   },
   "right": {
     "id": "df84ea0c80f74900",
@@ -173,22 +173,30 @@
   },
   "active": "599c54cc38a0102a",
   "lastOpenFiles": [
+    "人工智能/技术框架/HF-Datasets/数据集加载.md",
+    "人工智能/技术框架/HF-Datasets/resources/hf-dataset-demo/src/hf_dataset_demo/data/json/data.json",
+    "人工智能/技术框架/HF-Datasets/resources/hf-dataset-demo/src/hf_dataset_demo/data/json",
+    "人工智能/技术框架/HF-Datasets/resources/hf-dataset-demo/src/hf_dataset_demo/data",
+    "人工智能/技术框架/HF-Datasets/数据集加载~.md",
+    "人工智能/技术框架/HF-Datasets/resources/内置builder.png",
+    "人工智能/技术框架/HF-Datasets/resources/hf-dataset-demo/src/hf_dataset_demo/demo_3.py",
+    "人工智能/技术框架/HF-Datasets/resources/load-dataset函数.png",
+    "人工智能/技术框架/HF-Datasets/resources",
+    "后端技术/Authentik/1. Authentik基本概念.md",
+    "人工智能/技术框架/HF-Datasets",
+    "人工智能/技术框架",
+    "人工智能/AI Agent/RAG/论文阅读/REFRAG.md",
+    "后端技术/Authentik/resources",
+    "后端技术/Authentik",
+    "人工智能/AI Agent/RAG/论文阅读/REFRAG~.md",
+    "人工智能/AI Agent/MCP/1. MCP解决了什么问题.md",
+    "人工智能/AI Agent/RAG/论文阅读",
+    "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
     "resources/cover.png",
-    "resources",
     "我的生活/《红楼梦》与三十岁的我/1. 碎碎念.md",
     "生活.md",
-    "我的生活/《红楼梦》与三十岁的我/2. 奸雄贾雨村与甄士隐的小悲剧.md",
     "数学/工具/Manim动画工具/README.md",
-    "我的生活/《红楼梦》与三十岁的我",
-    "我的生活",
     "数学/随机过程/概率基础/1. 随机变量.md",
-    "资料/论文",
-    "资料/PPT/扩散模型基础——高斯分布与高斯过程.pptx",
-    "资料/PPT/The pricinples of DMs.pptx",
-    "资料/PDF/扩散模型原理分析.pdf",
-    "资料/PDF/傅立叶分析笔记.pdf",
-    "资料/PDF",
-    "资料/PPT",
     "数学/凸优化/Chapter 2 - Convex Set.md",
     "数学/工具/Manim动画工具/2. Manim坐标系统.md",
     "数学/工具/Manim动画工具/1. Manim组件简介.md",
@@ -199,7 +207,6 @@
     "人工智能/扩散模型/数学基础/1. 扩散模型数学基础：引言.md",
     "人工智能/AI Agent/LangGraph/README.md",
     "人工智能/AI Agent/LangChain/README.md",
-    "人工智能/AI Agent/MCP/1. MCP解决了什么问题.md",
     "人工智能/AI Agent/MCP/2. MCP客户端.md",
     "人工智能/AI Agent/MCP/3. FastMCP服务器开发.md",
     "人工智能/AI Agent/MCP/README.md",
@@ -211,14 +218,6 @@
     "Codes/manims/src/manims/media/Tex/c71e05dd21d7bb9e.svg",
     "Codes/manims/src/manims/media/Tex/b95fe29b3ed51849.svg",
     "Codes/manims/src/manims/media/Tex/071d0f66c7075123.svg",
-    "Codes/manims/src/manims/media/Tex/6e1634426d3e3bdf.svg",
-    "Codes/manims/src/manims/media/Tex/c40401e03f0c5885.svg",
-    "Codes/manims/src/manims/media/Tex/19b6551b9477ad6b.svg",
-    "人工智能/扩散模型/数学基础/深入理解扩散模型（一）：扩散模型数学基础~.md",
-    "人工智能/扩散模型/Score视角/Langevin Dynamics.md",
-    "人工智能/扩散模型/Score视角/1. Energy-Based Models (EBMs).md",
-    "人工智能/扩散模型/Score视角/README.md",
-    "后端技术/Spring/Spring Security/Spring中的Filter组件.md",
     "未命名.canvas"
   ]
 }
